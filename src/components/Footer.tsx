@@ -6,9 +6,9 @@ export default function Footer() {
       <div className="container mx-auto px-4 grid grid-cols-1 md:grid-cols-2 gap-12">
         <div>
           <img
-            src="https://images.unsplash.com/photo-1501555088652-021faa106b9b?auto=format&fit=crop&q=80"
+            src="https://i.pinimg.com/736x/19/a7/50/19a7503875d6d2d9834d6f08d8f67876.jpg"
             alt="Relaxing in nature"
-            className="w-full h-64 object-cover rounded-lg"
+            className="w-1007px h-745px object-cover rounded-lg"
           />
         </div>
         <div className="space-y-6">

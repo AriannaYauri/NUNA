@@ -6,7 +6,7 @@ export default function Hero() {
     <div className="relative h-screen">
       <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1589087575290-519f528dfe95?auto=format&fit=crop&q=80"
+          src="https://rutasdelhuayhuash.com/wp-content/uploads/2020/02/Ausangate-1.jpg"
           className="w-full h-full object-cover"
           alt="Montañas peruanas"
         />
@@ -18,7 +18,7 @@ export default function Hero() {
           <h1 className="text-5xl md:text-7xl font-bold mb-6">
             Es hora de tu
             <div className="flex items-center justify-center gap-4">
-              próxima <Play className="w-12 h-12" /> ventura
+              próxima aventura
             </div>
           </h1>
           <p className="text-xl mb-8">
